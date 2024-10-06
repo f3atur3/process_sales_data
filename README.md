@@ -31,7 +31,7 @@
 Запустите main.py командой:
 
   ```bash
-  python main.py
+  python app/main.py
   ```
 
 Обратите внимание, что файл с данными должен иметь заголовок "product_name","quantity","price","date"
